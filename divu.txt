@@ -1,2 +1,6 @@
 asdfg
+<<<<<<< HEAD
 asdf
+=======
+a
+>>>>>>> updates
